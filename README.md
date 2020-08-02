@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/raisedadead/raisedadead/raw/master/cover.svg?sanitize=true" />
-</div>
+<img src="https://github.com/raisedadead/raisedadead/raw/master/cover.svg?sanitize=true" width='100%'/>
 
 ### Hello! 👋
 
